@@ -1,0 +1,24 @@
+{
+  "editor.cursorBlinking": "solid",
+  "editor.cursorStyle": "block",
+  "editor.fontFamily": "monospace",
+  "editor.fontLigatures": true,
+  "editor.formatOnSave": true,
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "files.trimTrailingWhitespace": true,
+  "git.autofetch": "all",
+  "git.openRepositoryInParentFolders": "never",
+  "markdown.preview.doubleClickToSwitchToEditor": false,
+  "markdown.preview.fontFamily": "sans-serif",
+  "task.problemMatchers.neverPrompt": {
+    "shell": true
+  },
+  "terminal.integrated.fontFamily": "monospace",
+  "terminal.integrated.localEchoEnabled": "off",
+  "terminal.integrated.tabs.title": "${sequence}",
+  "workbench.colorTheme": "Visual Studio Dark",
+  "workbench.settings.editor": "json",
+  "workbench.sideBar.location": "right",
+  "workbench.startupEditor": "none"
+}

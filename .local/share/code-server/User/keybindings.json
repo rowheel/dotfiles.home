@@ -1,0 +1,22 @@
+[
+  {
+    "command": "workbench.action.nextEditorInGroup",
+    "key": "ctrl+tab"
+  },
+  {
+    "command": "workbench.action.previousEditorInGroup",
+    "key": "ctrl+shift+tab"
+  },
+  {
+    "command": "workbench.action.reloadWindow",
+    "key": "ctrl+r"
+  },
+  {
+    "command": "workbench.action.tasks.runTask",
+    "key": "ctrl+shift+b"
+  },
+  {
+    "command": "workbench.action.openWorkspaceSettings",
+    "key": "ctrl+shift+,"
+  }
+]

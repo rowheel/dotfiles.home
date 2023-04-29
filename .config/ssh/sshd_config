@@ -1,0 +1,4 @@
+KbdInteractiveAuthentication no
+ListenAddress 127.0.0.1
+PasswordAuthentication no
+Subsystem sftp internal-sftp

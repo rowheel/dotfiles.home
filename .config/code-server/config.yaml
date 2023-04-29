@@ -1,0 +1,6 @@
+---
+auth: none
+disable-file-downloads: true
+disable-getting-started-override: true
+disable-telemetry: true
+disable-workspace-trust: true

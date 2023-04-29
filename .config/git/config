@@ -1,0 +1,14 @@
+[credential]
+helper = store
+[pull]
+rebase = true
+[receive]
+denyCurrentBranch = warn
+[user]
+useConfigOnly = true
+[rebase]
+autoStash = true
+[gpg]
+format = ssh
+[commit]
+gpgSign = true

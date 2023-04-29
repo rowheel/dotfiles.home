@@ -1,0 +1,13 @@
+---
+CompileFlags:
+  Add:
+    - '-Wall'
+    - '-Wextra'
+  Remove: '-W*'
+Diagnostics:
+  ClangTidy:
+    Remove: '*'
+Hover:
+  ShowAKA: 'Yes'
+InlayHints:
+  Enabled: 'No'
